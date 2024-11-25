@@ -13,3 +13,4 @@ Ofrecer un reproductor ligero y fácil de usar que demuestre habilidades en dise
 1. HTML5 para la estructura.
 2. CSS3 para el diseño minimalista.
 3. JavaScript para la lógica interactiva y funcionalidad del reproductor.
+![image](https://github.com/user-attachments/assets/a26bd7cb-3fc5-4d84-a698-297d2ca00580)
